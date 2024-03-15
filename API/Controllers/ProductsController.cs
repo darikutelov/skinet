@@ -1,8 +1,7 @@
-﻿using API.Data;
-using API.Entities;
+﻿using Infrastructure.Data;
+using Core.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
 namespace API.Controllers;
 
 [ApiController]
